@@ -1,2 +1,2 @@
-# AvilaNancy_CSC17A_46738
-C++ Programming RCC Summer 2020
+# 2020_Summer_CSC_CIS_17a
+Summer C++ Programming with Objects
